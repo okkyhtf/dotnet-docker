@@ -1,6 +1,6 @@
 parameters:
-  imageBuilderLinuxImage: microsoft/dotnet-buildtools-prereqs:image-builder-debian-20180330181728
-  imageBuilderWindowsImage: microsoft/dotnet-buildtools-prereqs:image-builder-nanoserver-20180227141513
+  imageBuilderLinuxImage: microsoft/dotnet-buildtools-prereqs:image-builder-debian-20180522205353
+  imageBuilderWindowsImage: microsoft/dotnet-buildtools-prereqs:image-builder-nanoserver-20180522135321
   manifest: manifest.json
   matrixLinuxAmd64:
     Build_1_*:
